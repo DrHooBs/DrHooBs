@@ -5,7 +5,7 @@ const drhoobs = {
   pronouns: ["he","him"],
   interests: ["Programming", "Ice Hockey"],
   currentlyLearning: "JavaScript",
-  currentProject: "https://github.com/DrHooBs/HASS-MQTT-Client",
+  currentProject: "top secret!",
   spokenLanguages: ["English ", "Español"],
   skills: ["Back-end developmnent", "Adaptable"],
   discord: "DrHooBs#3476",

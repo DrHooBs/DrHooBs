@@ -9,7 +9,7 @@ const drhoobs = {
   spokenLanguages: ["English ", "Español"],
   skills: ["Back-end developmnent", "Adaptable"],
   contactable: true,
-  email: "b.harry404@icloud.com"
+  email: "b.harry404@icloud.com",
   discord: "DrHooBs",
   lookingToCollab: true,
 };

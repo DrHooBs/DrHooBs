@@ -1,15 +1,17 @@
 ```javascript
 const drhoobs = {
   name: "drhoobs",
-  aliases: "harrydoeseverything",
+  aliases: "harrybirds",
   pronouns: ["he","him"],
   interests: ["Programming", "Ice Hockey"],
-  currentlyLearning: "JavaScript",
+  currentlyLearning: "Java",
   currentProject: "top secret!",
   spokenLanguages: ["English ", "Español"],
   skills: ["Back-end developmnent", "Adaptable"],
-  discord: "DrHooBs#3476",
-  lookingToCollab: false,
+  contactable: true,
+  email: "b.harry404@icloud.com"
+  discord: "DrHooBs",
+  lookingToCollab: true,
 };
 ```
 

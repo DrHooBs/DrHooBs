@@ -1,6 +1,5 @@
 Hello, I'm Harry aka DrHooBs. I'm a student passionate about backend development, but I love exploring new technologies!
 
----
 Over time, I've gained experience with these tools, languages, libraries and operating systems
 
 ---

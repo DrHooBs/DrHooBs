@@ -68,13 +68,14 @@ const drhoobs = {
   name: "drhoobs",
   aliases: ["harrybirds"],
   pronouns: ["he","him"],
-  interests: ["Programming", "Ice Hockey"],
-  currentProjects: ["Incoverse/DrBot","Incoverse/InimiBEEP"],
-  spokenLanguages: ["English ", "Español"],
+  interests: ["Programming", "Ice Hockey", "Pokèmon TCG"],
+  currentProjects: [], // :(
+  spokenLanguages: ["English"],
   skills: ["Back-end development", "Adaptable"],
   contactable: true,
+  preferredContactMethod: "Discord",
   email: "b.harry404@icloud.com",
   discord: "DrHooBs",
   lookingToCollab: true,
 };
-````
+```
